@@ -7,4 +7,4 @@ Put the scss directory in your project root folder, open a terminal prompt there
 
 `sass --watch scss:css`
 
-it will create a css directory with the css file.
+it will create a css directory with the css file that you can edit.
